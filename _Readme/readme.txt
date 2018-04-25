@@ -25,5 +25,8 @@ _Readme项目：
 
 
 
+eclipse版本建议为：eclipse-jee-indigo-win32-x86_64，这个版本无需进行jar包的替换，之前由于替换eclipse的jar包导致eclipse崩溃无法启动。
+
+
 
 GitHub代码路径：https://github.com/SirLiuGang/OSGI-SpringDM.git
